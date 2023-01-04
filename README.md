@@ -1,1 +1,1 @@
-trojan://cc03f2b8-0ef0-4e42-b52e-298a788ada09@memory971027.dns.navy:80?security=tls&sni=obfs.domain&allowInsecure=1#trojan(tls)
+dGhpcyBpcyBhIGV4YW1wbGV0cm9qYW46Ly9jYzAzZjJiOC0wZWYwLTRlNDItYjUyZS0yOThhNzg4YWRhMDlAbWVtb3J5OTcxMDI3LmRucy5uYXZ5OjgwP3NlY3VyaXR5PXRscyZzbmk9b2Jmcy5kb21haW4mYWxsb3dJbnNlY3VyZT0xI3Ryb2phbih0bHMp
